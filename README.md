@@ -1,4 +1,6 @@
-# [SEDAR XX](https://sedarweb.org/) __Region__ *Species* Assessment Type
+# [SEDAR 89](https://sedarweb.org/) South Atlantic Golden Tilefish Operational Assessment
+Species: Golden Tilefish (*Lopholatilus chamaeleonticeps*; [ITIS=168546](https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=168546#null))
+
 This repository is for NMFS SEFSC SEDAR Assessment Coordination.  The project boards contain internal discussions and documentation of decisions for both project management and assessment development.  
 
 # [Stock Structure and Assessment Details](https://sefsc.github.io/SEFSC-SEDAR-Template/) 
