@@ -53,9 +53,9 @@ Golden Tilefish (*Lopholatilus chamaeleonticeps*; [ITIS=168546](https://www.itis
 
 **Points of Contact**
 
-*Lead Assessment Analyst:* Name, email
+*Lead Assessment Analyst:* Matthew Vincent, matthew.vincent@noaa.gov
 
-*Assessment Coordinator:* Name, email
+*Assessment Coordinator:* Kelly Adler, kelly.adler@noaa.gov 
 
 # Disclaimer
 
