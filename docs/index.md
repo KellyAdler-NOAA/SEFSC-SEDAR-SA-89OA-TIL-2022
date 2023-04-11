@@ -6,10 +6,9 @@
 + [Last Assessment (SEDAR 66, 2021)](https://sedarweb.org/assessments/sedar-66/?customize_changeset_uuid=dac65e6f-d48f-41f0-8125-a7ae0e1325cb)
 
 **Species**:
-Common name (*Scientific name*; [ITIS=XXXXXX](https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=172436#null))
-Include any species groups to be included for specific datasets (e.g. all mackerels for TIP, unclassified mackerels for landings, etc.)
+Golden Tilefish (*Lopholatilus chamaeleonticeps*; [ITIS=168546](https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=168546#null))
 
-![](spp.png)
+![](https://user-images.githubusercontent.com/112568926/231169727-ae49a36e-0db3-4a2d-b72b-718973a18e5d.png)
 
 **Topical Working Groups**:
 Describe and link any documents related to Topical Working Groups.
