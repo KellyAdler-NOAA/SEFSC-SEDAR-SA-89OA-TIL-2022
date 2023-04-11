@@ -11,7 +11,10 @@ Golden Tilefish (*Lopholatilus chamaeleonticeps*; [ITIS=168546](https://www.itis
 ![](https://user-images.githubusercontent.com/112568926/231169727-ae49a36e-0db3-4a2d-b72b-718973a18e5d.png)
 
 **Topical Working Groups**:
-Describe and link any documents related to Topical Working Groups.
+  + Week of January 22, 2024; Life History Topical Working Group Webinar I
+  + Week of February 12, 2024; Life History Topical Working Group Webinar II
+  + Week of March 11, 2024; Life History Topical Working Group Webinar III
+  + Week of April 22, 2024; Life History Topical Working Group Webinar IV (if needed) 
 
 **Year range**: YYYY-YYYY (Previous Assessment: YYYY-YYYY)
 
