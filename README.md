@@ -12,7 +12,7 @@ Topcal Working Groups:
 [**Personnel Plan**](https://docs.google.com/spreadsheets/d/1NamoaXOazPhTe7PZMEC9icOqPoapWxlHaW3HdZOazvw/edit?usp=sharing) ADD THIS, READY FOR LINK
 
 
-# [Stock Structure and Assessment Details](https://sefsc.github.io/SEFSC-SEDAR-Template/) 
+# [Stock Structure and Assessment Details](https://sefsc.github.io/SEFSC-SEDAR-SA-89OA-TIL-2022/) 
 
 
 ## Disclaimer
