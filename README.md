@@ -4,6 +4,10 @@ Species: Golden Tilefish (*Lopholatilus chamaeleonticeps*; [ITIS=168546](https:/
 ![TIL](https://user-images.githubusercontent.com/112568926/231166506-df138101-52bd-4914-b56e-f5a7a816eafe.png)
 
 Topcal Working Groups:
+  + Week of January 22, 2024; Life History Topical Working Group Webinar I
+  + Week of February 12, 2024; Life History Topical Working Group Webinar II
+  + Week of March 11, 2024; Life History Topical Working Group Webinar III
+  + Week of April 22, 2024; Life History Topical Working Group Webinar IV (if needed)
 
 [**Personnel Plan**](https://docs.google.com/spreadsheets/d/1NamoaXOazPhTe7PZMEC9icOqPoapWxlHaW3HdZOazvw/edit?usp=sharing) ADD THIS, READY FOR LINK
 
