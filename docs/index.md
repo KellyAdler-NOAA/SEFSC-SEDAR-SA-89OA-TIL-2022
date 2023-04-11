@@ -1,9 +1,9 @@
 
-# [SEDAR XX](http://sedarweb.org/sedar-81) Region *Species* Assessment Type
+# [SEDAR 89](https://sedarweb.org/assessments/sedar-89-south-atlantic-tilefish/?customize_changeset_uuid=dac65e6f-d48f-41f0-8125-a7ae0e1325cb) South Atlantic Golden Tilefish Operational Assessment 
 
-+ [Project schedule](http://sedarweb.org/docs/supp/S81_schedule_v5.pdf)
-+ [Terms of Reference](http://sedarweb.org/docs/supp/S81%20Gulf%20Spanish_TORS_v3.pdf)
-+ [Previous Assessment](http://sedarweb.org/docs/sar/S28%20SAR_GoM.SpMack_4.24.2013.pdf)
++ [Project schedule](https://sedarweb.org/documents/sedar-tilefish-schedule-3-23-23-pdf/?customize_changeset_uuid=dac65e6f-d48f-41f0-8125-a7ae0e1325cb)
++ [Terms of Reference](https://sedarweb.org/documents/final_sedar89_tilefish_tors3-23-23-pdf/?customize_changeset_uuid=dac65e6f-d48f-41f0-8125-a7ae0e1325cb)
++ [Last Assessment (SEDAR 66, 2021)](https://sedarweb.org/assessments/sedar-66/?customize_changeset_uuid=dac65e6f-d48f-41f0-8125-a7ae0e1325cb)
 
 **Species**:
 Common name (*Scientific name*; [ITIS=XXXXXX](https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=172436#null))
