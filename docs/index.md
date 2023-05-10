@@ -5,7 +5,7 @@
 
 + [Project schedule](https://sedarweb.org/documents/sedar-tilefish-schedule-3-23-23-pdf/?customize_changeset_uuid=dac65e6f-d48f-41f0-8125-a7ae0e1325cb)
 + [Terms of Reference](https://sedarweb.org/documents/final_sedar89_tilefish_tors3-23-23-pdf/?customize_changeset_uuid=dac65e6f-d48f-41f0-8125-a7ae0e1325cb)
-+ [Last Assessment (SEDAR 66, 2021)](https://sedarweb.org/assessments/sedar-66/?customize_changeset_uuid=dac65e6f-d48f-41f0-8125-a7ae0e1325cb)
++ [Last Assessment (SEDAR 66, 2021)](https://sedarweb.org/assessments/sedar-66/)
 
 **Species**:
 Golden Tilefish (*Lopholatilus chamaeleonticeps*; [ITIS=168546](https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=168546#null))
