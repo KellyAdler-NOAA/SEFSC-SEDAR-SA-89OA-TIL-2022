@@ -48,8 +48,9 @@ Golden Tilefish (*Lopholatilus chamaeleonticeps*; [ITIS=168546](https://www.itis
 
 **Data Overview from Previous Assessment**:
 
-![](data_plot.png)
 
+
+![](https://github.com/SEFSC/SEFSC-SEDAR-SA-86OA-RGR-2021/blob/main/docs/data_plot.PNG) 
 
 **Points of Contact**
 
