@@ -3,8 +3,8 @@
 
 # [Stock Structure and Assessment Details](https://github.com/KellyAdler-NOAA/SEFSC-SEDAR-SA-89OA-TIL-2022/) 
 
-+ [Project schedule](https://sedarweb.org/documents/sedar-tilefish-schedule-3-23-23-pdf/?customize_changeset_uuid=dac65e6f-d48f-41f0-8125-a7ae0e1325cb)
-+ [Terms of Reference](https://sedarweb.org/documents/final_sedar89_tilefish_tors3-23-23-pdf/?customize_changeset_uuid=dac65e6f-d48f-41f0-8125-a7ae0e1325cb)
++ [Project schedule](https://sedarweb.org/documents/sedar-tilefish-schedule-3-23-23-pdf/) 
++ [Terms of Reference](https://sedarweb.org/documents/final_sedar89_tilefish_tors3-23-23-pdf/)
 + [Last Assessment (SEDAR 66, 2021)](https://sedarweb.org/assessments/sedar-66/)
 
 **Species**:
