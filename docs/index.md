@@ -19,13 +19,13 @@ Golden Tilefish (*Lopholatilus chamaeleonticeps*; [ITIS=168546](https://www.itis
 **Year range**: 1972-2022 (Previous Assessment: SEDAR 66 1972-2018)
 
 **Commercial**:  
-  + *Boundary*: XXXXXXXXXXXX
-  + *Fleet structure*: (1) Commercial Handline, (2) Commercial Longline
-  + *Landings units*: Pounds and Numbers
+  + *Boundary*: North Carolina-Virginia border to the Florida Keys in Monroe County, Florida along US Highway 1. Landings in Monroe County were apportioned by data providers to exclude landings north of the Florida Keys, which are considered part of the Gulf of Mexico
+  + *Fleet structure*: (1) Commercial Handline, (2) Commercial Longline (other gear types not included in SEDAR 66)
+  + *Landings units*: Gutted Weight (pounds and numbers)
 
 **Recreational**:  
   + *Boundary*: North Carolina to Florida, including the Florida Keys
-  + *Fleet structure*: General Recreational   
+  + *Fleet structure*: General Recreational (headboat landings not included in SEDAR 66 - check with Ken and Rob)
   + *Landings units*: Pounds and Numbers
 
 **Indices**:  
@@ -33,17 +33,18 @@ Golden Tilefish (*Lopholatilus chamaeleonticeps*; [ITIS=168546](https://www.itis
   + *Fishery Dependent - Commercial Fisheries Logbook Program Longline Index*: Pounds per hook hour  
 
 
-**Composition Data Input Sample Sizes**: Number of trips, number of fish (indicate if one or both are requested)
+**Composition Data Input Sample Sizes**: Number of trips and number of fish
 
 **Length Bins and Units**: 4 cm fork length (FL) - 100 cm FL in 2 cm bins (indicate if lower inclusive or midpoints are requested--currently, GM is lower inclusive and SA is midpoint)
 
-**Ages**: 1-20 yr for commercial and ages 1-16 yr for MARMAP longline survey age compositions
+**Ages**: SEDAR 66 model included 1-20 years for commercial and ages 1-16 years for MARMAP longline survey age compositions
 
 **Data Overview from Previous Assessment**:
 
 
 
-![](https://github.com/SEFSC/SEFSC-SEDAR-SA-86OA-RGR-2021/blob/main/docs/data_plot.PNG) 
+![](https://github.com/KellyAdler-NOAA/SEFSC-SEDAR-SA-89OA-TIL-2022/assets/112568926/40d104c0-6007-4253-a7b1-028828d5eee0)
+
 
 **Points of Contact**
 
