@@ -29,8 +29,8 @@ Golden Tilefish (*Lopholatilus chamaeleonticeps*; [ITIS=168546](https://www.itis
   + *Landings units*: Pounds and Numbers
 
 **Indices**:  
-  + *Fishery Independent MARMAP Longline Index*:
-  + *Fishery Dependent Longline Logbook Index*:   
+  + *Fishery Independent - SCDNR MARMAP Bottom Longline Survey Index*: Catch per longline hour
+  + *Fishery Dependent - Commercial Fisheries Logbook Program Longline Index*: Pounds per hook hour  
 
 
 **Composition Data Input Sample Sizes**: Number of trips, number of fish (indicate if one or both are requested)
