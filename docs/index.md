@@ -23,7 +23,6 @@ Golden Tilefish (*Lopholatilus chamaeleonticeps*; [ITIS=168546](https://www.itis
       + Specify subareas 744.001, 748.001, etc.
       + Include table of subareas to include? Particularly relevant for south Florida
   + *Fleet structure*: (1) Commercial Handline, (2) Commercial Longline
-  ("Other" gears apportioned among Gillnet and Handline gears based on the annual proportions of landings by those two gears.)
       + Specify if this aggregation holds for length and age compositions (or if other/unknown gears are excluded)
       + Include table of fleet aggregations using FIN gear codes?
   + *Landings units*: Pounds whole weight
