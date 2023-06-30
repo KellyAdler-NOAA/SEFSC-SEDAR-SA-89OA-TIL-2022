@@ -29,8 +29,7 @@ Golden Tilefish (*Lopholatilus chamaeleonticeps*; [ITIS=168546](https://www.itis
 
 **Recreational**:  
   + *Boundary*: North Carolina to Florida, including the Florida Keys
-  + *Fleet structure*: General Recreational 
-      + Where relevant, include distinction between shore/private as some surveys (LA Creel) do not distinguish between these modes  
+  + *Fleet structure*: General Recreational   
   + *Landings units*: Pounds and Numbers
 
 **Indices**:  
