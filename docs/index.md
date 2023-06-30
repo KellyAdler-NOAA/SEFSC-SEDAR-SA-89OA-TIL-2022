@@ -25,7 +25,7 @@ Golden Tilefish (*Lopholatilus chamaeleonticeps*; [ITIS=168546](https://www.itis
   + *Fleet structure*: (1) Commercial Handline, (2) Commercial Longline
       + Specify if this aggregation holds for length and age compositions (or if other/unknown gears are excluded)
       + Include table of fleet aggregations using FIN gear codes?
-  + *Landings units*: Pounds whole weight
+  + *Landings units*: Gutted weight
 
 **Recreational**:  
   + *Boundary*: Gulf of Mexico states from Texas to the Florida Keys at the Dade-Monroe County line
