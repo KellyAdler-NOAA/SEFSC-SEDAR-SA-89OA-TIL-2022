@@ -35,10 +35,9 @@ Golden Tilefish (*Lopholatilus chamaeleonticeps*; [ITIS=168546](https://www.itis
   + *Landings units*: Number of fish , pounds whole weight (indicate if one or both are requested)
 
 **Indices**:  
-  + *Recreational (MRFSS/MRIP) Index*: Number of fish caught per angler hour
-  + *FWC Trip Ticket Vertical Line Index*: Pounds per trip    
-  + *SEAMAP Independent Fishery Trawl Survey Index*: Full model incorporating summer and fall datasets, number of fish per trawl hour
-  + *Shrimp Bycatch Fishery Effort Time Series*: Days fished
+  + *Fishery Independent MARMAP Longline Index*:
+  + *Fishery Dependent Longline Logbook Index*:   
+
 
 **Composition Data Input Sample Sizes**: Number of trips, number of fish (indicate if one or both are requested)
 
