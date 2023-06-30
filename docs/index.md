@@ -19,12 +19,8 @@ Golden Tilefish (*Lopholatilus chamaeleonticeps*; [ITIS=168546](https://www.itis
 **Year range**: 1972-2022 (Previous Assessment: SEDAR 66 1972-2018)
 
 **Commercial**:  
-  + *Boundary*: Statistical grids 1-21, North of US Highway 1 in the Florida Keys and North of the boundary line that extends from Key West to the Dry Tortugas
-      + Specify subareas 744.001, 748.001, etc.
-      + Include table of subareas to include? Particularly relevant for south Florida
+  + *Boundary*: XXXXXXXXXXXX
   + *Fleet structure*: (1) Commercial Handline, (2) Commercial Longline
-      + Specify if this aggregation holds for length and age compositions (or if other/unknown gears are excluded)
-      + Include table of fleet aggregations using FIN gear codes?
   + *Landings units*: Pounds and Numbers
 
 **Recreational**:  
