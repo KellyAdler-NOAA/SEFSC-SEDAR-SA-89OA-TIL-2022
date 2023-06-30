@@ -25,13 +25,13 @@ Golden Tilefish (*Lopholatilus chamaeleonticeps*; [ITIS=168546](https://www.itis
   + *Fleet structure*: (1) Commercial Handline, (2) Commercial Longline
       + Specify if this aggregation holds for length and age compositions (or if other/unknown gears are excluded)
       + Include table of fleet aggregations using FIN gear codes?
-  + *Landings units*: Gutted weight
+  + *Landings units*: Pounds and Numbers
 
 **Recreational**:  
   + *Boundary*: North Carolina to Florida, including the Florida Keys
   + *Fleet structure*: General Recreational 
       + Where relevant, include distinction between shore/private as some surveys (LA Creel) do not distinguish between these modes  
-  + *Landings units*: Number of fish , pounds whole weight (indicate if one or both are requested)
+  + *Landings units*: Pounds and Numbers
 
 **Indices**:  
   + *Fishery Independent MARMAP Longline Index*:
