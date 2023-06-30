@@ -43,7 +43,7 @@ Golden Tilefish (*Lopholatilus chamaeleonticeps*; [ITIS=168546](https://www.itis
 
 **Length Bins and Units**: 4 cm fork length (FL) - 100 cm FL in 2 cm bins (indicate if lower inclusive or midpoints are requested--currently, GM is lower inclusive and SA is midpoint)
 
-**Ages**: 0-11 years with 11 as plus group for compositions
+**Ages**: 1-20 yr for commercial and ages 1-16 yr for MARMAP longline survey age compositions
 
 **Data Overview from Previous Assessment**:
 
