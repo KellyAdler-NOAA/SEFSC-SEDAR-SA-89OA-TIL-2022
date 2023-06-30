@@ -16,7 +16,7 @@ Golden Tilefish (*Lopholatilus chamaeleonticeps*; [ITIS=168546](https://www.itis
   + Life History Topical Working Group Webinar (3; 4 if needed)
   
 
-**Year range**: YYYY-YYYY (Previous Assessment: SEDAR 66 1972-2018)
+**Year range**: 1972-2022 (Previous Assessment: SEDAR 66 1972-2018)
 
 **Commercial**:  
   + *Boundary*: Statistical grids 1-21, North of US Highway 1 in the Florida Keys and North of the boundary line that extends from Key West to the Dry Tortugas
