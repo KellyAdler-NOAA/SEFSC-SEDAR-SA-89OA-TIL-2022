@@ -22,7 +22,7 @@ Golden Tilefish (*Lopholatilus chamaeleonticeps*; [ITIS=168546](https://www.itis
   + *Boundary*: Statistical grids 1-21, North of US Highway 1 in the Florida Keys and North of the boundary line that extends from Key West to the Dry Tortugas
       + Specify subareas 744.001, 748.001, etc.
       + Include table of subareas to include? Particularly relevant for south Florida
-  + *Fleet structure*: (1) Commercial Gillnet (+ Other), (2) Commercial Handlines (+ Other)
+  + *Fleet structure*: (1) Commercial Handline, (2) Commercial Longline
   ("Other" gears apportioned among Gillnet and Handline gears based on the annual proportions of landings by those two gears.)
       + Specify if this aggregation holds for length and age compositions (or if other/unknown gears are excluded)
       + Include table of fleet aggregations using FIN gear codes?
@@ -30,7 +30,7 @@ Golden Tilefish (*Lopholatilus chamaeleonticeps*; [ITIS=168546](https://www.itis
 
 **Recreational**:  
   + *Boundary*: Gulf of Mexico states from Texas to the Florida Keys at the Dade-Monroe County line
-  + *Fleet structure*: (1) Recreational modes combined (Charter, Private, Shore and Headboat)  
+  + *Fleet structure*: General Recreational 
       + Where relevant, include distinction between shore/private as some surveys (LA Creel) do not distinguish between these modes  
   + *Landings units*: Number of fish , pounds whole weight (indicate if one or both are requested)
 
