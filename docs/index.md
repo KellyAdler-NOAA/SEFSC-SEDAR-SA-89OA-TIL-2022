@@ -28,7 +28,7 @@ Golden Tilefish (*Lopholatilus chamaeleonticeps*; [ITIS=168546](https://www.itis
   + *Landings units*: Gutted weight
 
 **Recreational**:  
-  + *Boundary*: Gulf of Mexico states from Texas to the Florida Keys at the Dade-Monroe County line
+  + *Boundary*: North Carolina to Florida, including the Florida Keys
   + *Fleet structure*: General Recreational 
       + Where relevant, include distinction between shore/private as some surveys (LA Creel) do not distinguish between these modes  
   + *Landings units*: Number of fish , pounds whole weight (indicate if one or both are requested)
